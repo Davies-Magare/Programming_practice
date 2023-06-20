@@ -2,6 +2,17 @@
 #include <math.h>
 #include <stdlib.h>
 #define DEBUG 0
+/**
+ * This is one file with many bits of code
+ * I made this while on a study session on arrays
+ * since I didn't want to be creating a new file
+ * every time to test the code given inside the text
+ * book. I've therefore included the libraries and
+ * defined any macros once for every program inside the
+ * file. The other programs are commented out so as not
+ * to affect the compilation of the next programs
+ */
+
 //void multiply(int *num1, int *num2);
 //int main(void)
 //{
